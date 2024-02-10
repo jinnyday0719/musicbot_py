@@ -10,9 +10,8 @@ import requests
 import json
 import time
 
-TOKEN ='Nzg4MDUzMTUzMzkxNTc1MDQw.Gu--Vl.f7bl57OHFMl3wUh8Wq2xEHdYJ8xJkP9biV_Zn8'
-#API_KEY = 'AIzaSyDeavw6qI2eIbegMIRAN2ljof1Xm-1OPUU'
-API_KEY = 'AIzaSyDNOSpqmnSZVqp28lXyFR3U9v2nxCaGzM0'
+TOKEN ='TOKEN' #디스코드 봇 토큰
+API_KEY = 'API_KEY' #구글 api 키키
 music_dir = './music'
 admin_id = 788053153391575040
 channel_id = 1136967222363963462
